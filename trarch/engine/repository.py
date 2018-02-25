@@ -7,4 +7,3 @@ class Repository:
         self._valid = False
         self._id = False
         self._guid = False
-        
